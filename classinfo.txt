@@ -1,0 +1,11 @@
+Class info	<circle inscribed in a square>
+
+Circle radius = 5
+Side of a square = 10
+
+Circle:
+ Circumference = 31.4159
+ Circle area = 78.5398
+Square:
+ Perimeter = 40
+ Square area = 100
